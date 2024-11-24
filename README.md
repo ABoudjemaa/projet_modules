@@ -95,6 +95,7 @@ Ce projet utilise Symfony comme backend pour gérer l'API, avec l'authentificati
    ```bash
    npm install
    ```
+2. Configurer le fichier .env pour le url d'api (VITE_API_URL=http://127.0.0.1:8000/api).
 2. Lancer le serveur de développement :
    ```bash
    npm run dev
